@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.wachtv" name="WACHTV" version="1.6" provider-name="WAPITO">
+<addon id="plugin.video.wachtv" name="WACHTV" version="1.7" provider-name="WAPITO">
   <requires>
      <import addon="xbmc.python" version="2.1.0"/>
   </requires>
