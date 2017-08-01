@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.wachtv" name="WACHTV" version="1.9.4" provider-name="WAPITO">
+<addon id="plugin.video.whd" name="WHD" version="1.9.5" provider-name="WHD">
   <requires>
      <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -9,10 +9,10 @@
   <extension point="xbmc.addon.metadata">
     <summary lang="en"></summary>
     <website></website>
-    <description lang="en">EL MEJOR SOPORTE IPTV PARA EL MUNDO</description>
+    <description lang="en">EL MEJOR SOPORTE HD PARA EL MUNDO</description>
     <forum></forum>
     <email></email>
-    <disclaimer lang="es">EL MEJOR SOPORTE IPTV PARA EL MUNDO</disclaimer>
+    <disclaimer lang="es">EL MEJOR SOPORTE HD PARA EL MUNDO</disclaimer>
     <platform>all</platform>
   </extension>
 </addon>
